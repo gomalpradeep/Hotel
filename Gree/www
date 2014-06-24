@@ -1,0 +1,1020 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_US">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<meta http-equiv="imagetoolbar" content="no"/>
+<meta name="format-detection" content="telephone=no"/>
+<link rel="shortcut icon" href="http://www.hrsstatic.com/web3/images/wide/_general/_general/icons/favicon.ico"/>
+<meta name="description" content="Hotels worldwide incl. information, ratings and photos. Make your hotel reservation inexpensively and quickly at HRS – The Hotel Portal."/>
+<meta name="yandex-verification" content="4ab4e7fc9dba80ee"/>
+<meta name="google-site-verification" content="gTliNqChb2j2asDRGQ6p9aSY3RY9Wo8QNp-adIjdM1w"/>
+<title>HRS - Hotel Reservation Service | Hotels worldwide at HRS - Hotel reservation online </title>
+<link href="http://www.hrs.de/hotel/" hreflang="de" rel="alternate">
+<link href="http://www.hrs.com/uk/" hreflang="en-gb" rel="alternate">
+<link href="http://www.hrs.com/fr/" hreflang="fr" rel="alternate">
+<link href="http://www.hrs.com/it/" hreflang="it" rel="alternate">
+<link href="http://www.hrs.com/pl/" hreflang="pl" rel="alternate">
+<link href="http://www.hrs.com.ru/" hreflang="ru" rel="alternate">
+<link href="http://www.hrs.com/es/" hreflang="es" rel="alternate">
+<link href="http://www.hrs.com.tr/" hreflang="tr" rel="alternate">
+<link href="http://pt.hrs.com/" hreflang="pt" rel="alternate">
+<!--[if gt IE 7 ]><!-->
+<link rel="stylesheet" type="text/css" href="http://www.hrsstatic.com/web3/css/wide/hoverCompressed.css" media="screen"/>
+<!--<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.hrsstatic.com/web3/css/wide/startCompressed.css" media="screen"/>
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://www.hrsstatic.com/web3/css/wide/ie6.css" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://www.hrsstatic.com/web3/css/wide/ie7.css" media="screen" /><![endif]-->
+<!--[if IE 8]>
+                        <link rel="stylesheet" type="text/css" href="http://www.hrsstatic.com/web3/css/wide/ie8.css" media="screen" />
+                        <style type="text/css" media="print">
+                            div#wrap.print img.printLogo {
+                                position: relative;
+                                float:right
+                            }
+                        </style>
+                    <![endif]-->
+<!--[if IE 9]>
+                        <link rel="stylesheet" type="text/css" href="http://www.hrsstatic.com/web3/css/wide/ie9.css" media="screen" />
+
+                    <![endif]-->
+<script type="text/javascript">if(!window.console){console=new function(a){this.log=function(a){};this.warn=function(a){};this.info=function(a){};this.error=function(a){};};}</script>
+<script type="text/javascript" src="http://www.hrsstatic.com/web3/js/LAB.min.js"></script>
+<script type="text/javascript">//<![CDATA[
+var ms=0,state=0,now,then;function stopWatch(){if(state==0){state=1;then=new Date();then.setTime(then.getTime()-ms);}else{state=0;now=new Date();ms=now.getTime()-then.getTime();if(document.searchForm.stopWatchTime)
+document.searchForm.stopWatchTime.value=ms;}}
+function display(){setTimeout("display();",50);if(state==1){now=new Date();ms=now.getTime()-then.getTime();if(document.searchForm.stopWatchTime)document.searchForm.stopWatchTime.value=ms;}}
+stopWatch();
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+window.flyoutIframeUrl='/web3/showPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&cid=53-4&page=spacer';window.calCloseMsg='close window';window.CLIENTNAME="NEXT";window.MAXROOMCOUNT=9;window.HELPSATELLITE="/web3/showPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&cid=53-4&page=userHelpSat&sat=manyrooms&satBundle=content.home.help";window.HELPSATELLITENAME="Help";window.GROUPSFAIRS="/web3/portalRedirect.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&cid=53-4&activity=callContactFormGbg";window.CHANGE_LANGUAGE_URL="/web3/showHomepage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4";window.cid="cid=53-4";window.dwrSessionId="7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4";window.ENCODED_CLIENT_IDS={"de":"ZGVfX05FWFQ-","en":"ZW5fX05FWFQ-","en_US":"ZW5fVVNfTkVYVA--","es":"ZXNfX05FWFQ-","fr":"ZnJfX05FWFQ-","it":"aXRfX05FWFQ-","zh_CN":"emhfQ05fTkVYVA--","zh_TW":"emhfVFdfTkVYVA--","pl":"cGxfX05FWFQ-","af":"YWZfX05FWFQ-","ca":"Y2FfX05FWFQ-","cs":"Y3NfX05FWFQ-","da":"ZGFfX05FWFQ-","et":"ZXRfX05FWFQ-","el":"ZWxfX05FWFQ-","hi":"aGlfX05FWFQ-","hr":"aHJfX05FWFQ-","zu":"enVfX05FWFQ-","ja":"amFfX05FWFQ-","ko":"a29fX05FWFQ-","lv":"bHZfX05FWFQ-","lt":"bHRfX05FWFQ-","hu":"aHVfX05FWFQ-","nl":"bmxfX05FWFQ-","no":"bm9fX05FWFQ-","pt":"cHRfX05FWFQ-","ru":"cnVfX05FWFQ-","sl":"c2xfX05FWFQ-","sk":"c2tfX05FWFQ-","fi":"ZmlfX05FWFQ-","sv":"c3ZfX05FWFQ-","tr":"dHJfX05FWFQ-"};window.CLIENT_CONFIG_ID='';window.teaserRegisterClient=window.CLIENTNAME+'_'+window.CLIENT_CONFIG_ID;
+//]]></script>
+<script type="text/javascript">var md={"muut":"0","mplocale":"en_US","msid":"","mpc":"6011","mpn":"homepage","mueid":"0","mps":"Web1000","mpt":"Home","mpgc":"IN","malid":"0","mpurl":"http://www.hrs.com/web3/jsp/portal/homepage.jsp","msc":"0","msr":"-1","mard":"0","mpcc":"USD","mpver":"5.14@460255","mucid":"0","mvvid":"7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4","mshn":"","msfr":"0","madtc":"0","mphier":"Public Web,homepage","mulogin":"0","mars":"0","maga":"0","msst":"","madur":"1","mpclient":"NEXT","mpsc":"Public Web","magcc":"0","madoa":"22.05.2014","madod":"23.05.2014"};</script>
+<script type="text/javascript">(function(a,b,c,d){a='//tags.tiqcdn.com/utag/hrs/portal/prod/utag.js';b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);})();</script>
+</head>
+<body class="en_US_NEXT">
+<!--[if lt IE 7]>
+    <div class="ie6layer" id="ie6update">
+        <div class="ie6layer-content">
+            <div class="ie6layer-text">
+                <h2>Did you know that your Internet Explorer 6 <img src='http://www.hrsstatic.com/web3/images/wide/_general/_general/elements/ico-ie.jpg' alt='Internet Explorer 6'> is outdated?</h2>
+                <p>Our system no longer supports Internet Explorer 6. You can continue to use our site, however you will be unable to use certain new features. Please update your <a href='http://windows.microsoft.com/en-us/internet-explorer/download-ie'>Internet Explorer to the latest </a> version, or install one of the most popular modern browsers from the list.</p>
+            </div>
+            <ul class="ie6layer-browsers">
+                <li class="chrome"><a href="https://www.google.com/intl/en/chrome/browser/">Chrome</a></li>
+                <li class="firefox"><a href="http://www.mozilla.org/en-US/firefox/new/">Firefox</a></li>
+            </ul>
+        </div>
+        <a href="#" class="close" onClick="document.getElementById('ie6update').removeNode(true)">Close</a>
+    </div>
+<![endif]-->
+<script type="text/javascript" src="http://www.hrs.com/abt/wt_capi.js.pagespeed.jm.UFUyI8QzuR.js"></script>
+<script type="text/javascript">//<![CDATA[
+function check(){stopWatch();}
+window.onload=function(){check();}
+//]]></script>
+<div id="wrap" class="start">
+<!--[if IE 7 ]><input type="submit" value="" name="" style="position:absolute; left:-30px; top: -100px" /><![endif]-->
+<div id="layout01">
+<div id="layout02">
+<div id="footerMenuWrap" class="footerMenuWrap">
+<h4> </h4>
+<ul class="footerMenu">
+<li><a href="#unitedKingdom"><span>United Kingdom</span></a></li>
+<li><a href="#deutschland"><span>Deutschland</span></a></li>
+<li><a href="#france"><span>France</span></a></li>
+<li><a href="#italia"><span>Italia</span></a></li>
+<li><a href="#polska"><span>Polska</span></a></li>
+<li><a href="#russia"><span>Россия</span></a></li>
+</ul>
+<div id="unitedKingdom">
+<ul>
+<li class="head"><h5>National</h5></li>
+<li><a href="http://www.hrs.com/uk/europe/england/london/">Hotels in London</a></li>
+<li><a href="http://www.hrs.com/uk/europe/england/birmingham/">Hotels in Birmingham</a></li>
+<li><a href="http://www.hrs.com/uk/europe/england/brighton/">Hotels in Brighton</a></li>
+<li><a href="http://www.hrs.com/uk/europe/england/bristol/">Hotels in Bristol</a></li>
+<li><a href="http://www.hrs.com/uk/europe/england/manchester/">Hotels in Manchester</a></li>
+<li><a href="http://www.hrs.com/uk/europe/england/coventry/">Hotels in Coventry</a></li>
+<li><a href="http://www.hrs.com/uk/europe/england/southampton/">Hotels in Southampton</a></li>
+<li><a href="http://www.hrs.com/uk/europe/england/leeds/">Hotels in Leeds</a></li>
+</ul>
+<ul>
+<li class="head"><h5>International</h5></li>
+<li><a href="http://www.hrs.com/uk/europe/france/paris/">Hotels in Paris</a></li>
+<li><a href="http://www.hrs.com/uk/europe/france/nice/">Hotels in Nice</a></li>
+<li><a href="http://www.hrs.com/uk/europe/france/toulouse/">Hotels in Toulouse</a></li>
+<li><a href="http://www.hrs.com/uk/europe/germany/munich/">Hotels in Munich</a></li>
+<li><a href="http://www.hrs.com/uk/europe/germany/hamburg/">Hotels in Hamburg</a></li>
+<li><a href="http://www.hrs.com/uk/europe/germany/berlin/">Hotels in Berlin</a></li>
+</ul>
+<div>
+<h5>HRS UK</h5>
+<p>Are you looking for a hotel in Paris, London or Munich. Are you planning a business trip to Moscow, Vienna or Oslo. Would you like to go on a shopping trip to New York, Madrid or Barcelona? No matter where you want to go <a href="http://www.hrs.com/uk/">HRS</a> offers you the best hotels for the cheapest prices with over <a href="http://www.hrs.com/uk/booking/en/">230.000 Hotels</a> all over the world. Book a charming hotel at HRS.com</p>
+</div>
+</div>
+<div id="deutschland">
+<ul>
+<li class="head"><h5>National</h5></li>
+<li><a href="http://www.hrs.de/hotel/de/berlin/">Hotel Berlin</a></li>
+<li><a href="http://www.hrs.de/hotel/de/bayern/muenchen/">Hotel München</a></li>
+<li><a href="http://www.hrs.de/hotel/de/nordrhein-westfalen/koeln/">Hotel Köln</a></li>
+<li><a href="http://www.hrs.de/hotel/de/hamburg/">Hotel Hamburg</a></li>
+<li><a href="http://www.hrs.de/hotel/de/nordrhein-westfalen/duesseldorf/">Hotel Düsseldorf</a></li>
+<li><a href="http://www.hrs.de/hotel/de/sachsen/dresden/">Hotel Dresden</a></li>
+<li><a href="http://www.hrs.de/hotel/de/niedersachsen/hannover/">Hotel Hannover</a></li>
+<li><a href="http://www.hrs.de/hotel/de/bremen/">Hotel Bremen</a></li>
+</ul>
+<ul>
+<li class="head"><h5>International</h5></li>
+<li><a href="http://www.hrs.de/hotel/grossbritannien/london/">Hotel London</a></li>
+<li><a href="http://www.hrs.de/hotel/frankreich/paris/">Hotel Paris</a></li>
+<li><a href="http://www.hrs.de/hotel/oesterreich/wien/">Hotel Wien</a></li>
+<li><a href="http://www.hrs.de/hotel/italien/latium/rom/">Hotel Rom</a></li>
+<li><a href="http://www.hrs.de/hotel/italien/venetien/venedig/">Hotel Venedig</a></li>
+<li><a href="http://www.hrs.de/hotel/italien/toskana/florenz/">Hotel Florenz</a></li>
+<li><a href="http://www.hrs.de/hotel/usa/new-york/new-york-city/">Hotel New York</a></li>
+<li><a href="http://www.hrs.de/hotel/tuerkei/istanbul/">Hotel Istanbul</a></li>
+</ul>
+<div>
+<h5>HRS Deutschland</h5>
+<p>Planen Sie eine Geschäftsreise nach London, Hamburg oder Wien? Suchen Sie für einen Shopping-Trip das passende Hotel in New York? Ganz gleich wohin Sie fahren möchten - Italien, Spanien, England oder Frankreich - <a href="http://www.hrs.de/hotel/">HRS</a> bietet Ihnen unter Garantie das richtige Hotel! Hotel Reservation Services verfügt über mehr als 230.000 Hotels weltweit. Buchen Sie ein günstiges und komfortables Hotel mit HRS!</p>
+</div>
+</div>
+<div id="france">
+<ul>
+<li class="head"><h5>Destinations nationales</h5></li>
+<li><a href="http://www.hrs.com/fr/europe/france/paris/">Hôtel Paris</a></li>
+<li><a href="http://www.hrs.com/fr/europe/france/provence-alpes-cote-dazur/nice/">Hôtel Nice</a></li>
+<li><a href="http://www.hrs.com/fr/europe/france/midi-pyrenees/toulouse/">Hôtel Toulouse</a></li>
+<li><a href="http://www.hrs.com/fr/europe/france/languedoc-roussillon/montpellier/">Hôtel Montpellier</a></li>
+<li><a href="http://www.hrs.com/fr/europe/france/midi-pyrenees/lourdes/">Hôtel Lourdes</a></li>
+<li><a href="http://www.hrs.com/fr/europe/france/alsace/strasbourg/">Hôtel Strasbourg</a></li>
+<li><a href="http://www.hrs.com/fr/europe/france/corse/">Hôtel Corse</a></li>
+<li><a href="http://www.hrs.com/fr/europe/france/provence-alpes-cote-dazur/cannes/">Hôtel Cannes</a></li>
+</ul>
+<ul>
+<li class="head"><h5>Destinations internationales</h5></li>
+<li><a href="http://www.hrs.com/fr/europe/angleterre/londres/">Hôtel Londres</a></li>
+<li><a href="http://www.hrs.com/fr/europe/allemagne/hambourg/">Hôtel Hambourg</a></li>
+<li><a href="http://www.hrs.com/fr/europe/allemagne/berlin/">Hôtel Berlin</a></li>
+<li><a href="http://www.hrs.com/fr/europe/espagne/barcelone/">Hôtel Barcelone</a></li>
+<li><a href="http://www.hrs.com/fr/europe/autriche/vienne/">Hôtel Vienne</a></li>
+<li><a href="http://www.hrs.com/fr/europe/belgique/bruges/">Hôtel Bruges</a></li>
+<li><a href="http://www.hrs.com/fr/europe/belgique/bruxelles/">Hôtel Bruxelles</a></li>
+<li><a href="http://www.hrs.com/fr/europe/italie/rome/">Hôtel Rome</a></li>
+</ul>
+<div>
+<h5>HRS France</h5>
+<p>HRS.com vous offre plus de <a href="http://www.hrs.com/fr/booking/fr/">230.000 d'hôtels dans le monde entier</a> ! Vous voulez passer un week-end à Londres, Munich ou à Barcelone? Vous envisagez un voyage d'affaire à Moscou, Hong Kong ou Oslo? Sur HRS.com vous pouvez réserver d'hôtels confortables à un prix très favorable. Tapez <a href="http://www.hrs.com/fr/">HRS.com</a> et réservez en ligne, c'est facile et pas cher !</p>
+</div>
+</div>
+<div id="italia">
+<ul>
+<li class="head"><h5>Destinazioni in Italia</h5></li>
+<li><a href="http://www.hrs.com/it/europa/italia/roma/">Hotel Roma</a></li>
+<li><a href="http://www.hrs.com/it/europa/italia/firenze/">Hotel Firenze</a></li>
+<li><a href="http://www.hrs.com/it/europa/italia/milano/">Hotel Milano</a></li>
+<li><a href="http://www.hrs.com/it/europa/italia/bologna/">Hotel Bologna</a></li>
+<li><a href="http://www.hrs.com/it/europa/italia/genova/">Hotel Genova</a></li>
+<li><a href="http://www.hrs.com/it/europa/italia/padova/">Hotel Padova</a></li>
+<li><a href="http://www.hrs.com/it/europa/italia/rimini/">Hotel Rimini</a></li>
+<li><a href="http://www.hrs.com/it/europa/italia/pisa/">Hotel Pisa</a></li>
+</ul>
+<ul>
+<li class="head"><h5>Internazionale</h5></li>
+<li><a href="http://www.hrs.com/it/europa/austria/vienna/">Hotel Vienna</a></li>
+<li><a href="http://www.hrs.com/it/europa/belgio/brussel/">Hotel Brussel</a></li>
+<li><a href="http://www.hrs.com/it/europa/germania/amburgo/">Hotel Amburgo</a></li>
+<li><a href="http://www.hrs.com/it/europa/germania/berlino/">Hotel Berlino</a></li>
+<li><a href="http://www.hrs.com/it/europa/germania/stoccarda/">Hotel Stoccarda</a></li>
+<li><a href="http://www.hrs.com/it/europa/spagna/barcellona/">Hotel Barcellona</a></li>
+<li><a href="http://www.hrs.com/it/europa/spagna/valencia/">Hotel Valencia</a></li>
+<li><a href="http://www.hrs.com/it/europa/austria/salisburgo/">Hotel Salisburgo</a></li>
+</ul>
+<div>
+<h5>HRS Italia</h5>
+<p>Cerchi offerte di hotel per il tuo prossimo viaggio d'affari o per una vacanza romantica? Non importa dove ti porterà il tuo viaggio: con una banca dati di oltre <a href="http://www.hrs.com/it/booking/it/">230.000 alberghi</a> di tutte le categorie di prezzo, su <a href="http://www.hrs.com/it/">HRS.com</a> potrai prenotare gratuitamente hotel economici e di lusso in tutto il mondo!</p>
+</div>
+</div>
+<div id="polska">
+<ul>
+<li class="head"><h5>Najpopularniejsze kierunki w kraju</h5></li>
+<li><a href="http://www.hrs.com/pl/europa/polska/warszawa/">Hotele Warszawa</a></li>
+<li><a href="http://www.hrs.com/pl/europa/polska/krakow/">Hotele Kraków</a></li>
+<li><a href="http://www.hrs.com/pl/europa/polska/katowice/">Hotele Katowice</a></li>
+<li><a href="http://www.hrs.com/pl/europa/polska/poznan/">Hotele Poznan</a></li>
+<li><a href="http://www.hrs.com/pl/europa/polska/karpacz/">Hotele Karpacz</a></li>
+</ul>
+<ul>
+<li class="head"><h5>Międzynarodowy</h5></li>
+<li><a href="http://www.hrs.com/pl/europa/anglia/londyn/">Hotele Londyn</a></li>
+<li><a href="http://www.hrs.com/pl/europa/niemcy/kolonia/">Hotele Kolonia</a></li>
+<li><a href="http://www.hrs.com/pl/europa/czechy/brno/">Hotele Brno</a></li>
+</ul>
+<div>
+<h5>HRS Polska - Sprawdz, rezerwuj i oszczedzaj!</h5>
+<p>Na stronach HRS.com znajdziesz i zarezerwujesz hotel w Polsce i na calym swiecie. <a href="http://www.hrs.com/pl/">HRS</a> to oferta ponad <a href="http://www.hrs.com/pl/booking/pl/">230.000 hoteli</a> po promocyjnych cenach w kraju i za granica, która napewno spelni wszelkie Twoje oczekiwania. Planujesz podróz sluzbowa albo krótkie wakacje? - HRScom pomoze dokonac Ci trafnego wyboru. HRS - HOTEL RESRVATION SERVICE!</p>
+</div>
+</div>
+<div id="russia">
+<ul>
+<li class="head"><h5>Направления</h5></li>
+<li><a href="http://www.hrs.com/ru/evropa/rossija/moskva/">Отель Москва</a></li>
+<li><a href="http://www.hrs.com/ru/evropa/finljandija/khelsinki/">Отель Хельсинки </a></li>
+<li><a href="http://www.hrs.com/ru/evropa/irlandija/dublin/">Отель Дублин</a></li>
+<li><a href="http://www.hrs.com/ru/evropa/niderlandy/amsterdam/">Отель Амстердам</a></li>
+<li><a href="http://www.hrs.com/ru/evropa/avstrija/vena/">Отель Вена</a></li>
+<li><a href="http://www.hrs.com/ru/evropa/italija/rim/">Отель Рим</a></li>
+<li><a href="http://www.hrs.com/ru/evropa/ispanija/barselona/">Отель Барселона</a></li>
+<li><a href="http://www.hrs.com/ru/evropa/chekhija/praga/">Отель Прага</a></li>
+<li><a href="http://www.hrs.com/ru/evropa/grecija/afiny/">Отель Афины</a></li>
+<li><a href="http://www.hrs.com/ru/evropa/danija/kopengagen/">Отель Копенгаген</a></li>
+<li><a href="http://www.hrs.com/ru/evropa/shveicarija/bazel/">Отель Базель</a></li>
+<li><a href="http://www.hrs.com/ru/evropa/germanija/berlin/">Отель Берлин</a></li>
+</ul>
+<div>
+<h5>HRS Россия</h5>
+<p>Вам предстоит командировка в Лондон, Гамбург или Вену?
+Вы хотите отправиться за покупками в Нью-Йорк и ищете подходящий отель? Совершенно неважно,
+куда вы хотели бы поехать- в Италию, Испанию, Великобританию или Францию,<a href="http://www.hrs.com/ru/"> HRS</a> гарантируeт Вам самые
+выгодные гостиницы. Hotel Reservation Service предлагает услуги бронирования для более чем 230.000 отелей по всему миру.
+Бронируйте недорогие и комфортные отели через HRS!</p>
+</div>
+</div>
+</div>
+<div id="head">
+<ul id="meta">
+<li class="first sub">
+<a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=mobileService">
+<span>
+<span>
+HRS Mobile
+</span>
+</span>
+</a>
+<ul class="wide"><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=0&amp;pageId=standard-02871" target="_self">Android Smartphones</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=1&amp;pageId=standard-02891" target="_self">Bada App</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=2&amp;pageId=standard-02865" target="_self">BlackBerry</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=3&amp;pageId=standard-21891" target="_self">BlackBerry Playbook</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=4&amp;pageId=standard-02875" target="_self">iPad</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=5&amp;pageId=standard-02873" target="_self">iPhone</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=6&amp;pageId=standard-02867" target="_self">Mobile phone browser</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=7&amp;pageId=standard-02879" target="_self">Nokia Maps</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=8&amp;pageId=standard-22295" target="_self">Intel Windows 7 </a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=9&amp;pageId=standard-02877" target="_self">Nokia App</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=10&amp;pageId=standard-02889" target="_self">Samsung Widget</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=11&amp;pageId=standard-02885" target="_self">Windows Phone 7</a></li></ul>
+</li>
+<li class="language sub">
+<form name="languageForm" action="/web3/changeLanguage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4" method="post">
+<fieldset>
+<label for="language">
+<span>Language selector</span>
+<input type="hidden" name="activity" value="changeLanguage"/>
+<input type="hidden" name="differentLanguage" value="true"/>
+<select name="localeString" size="1" onchange="document.languageForm.submit()" id="language">
+<option value="32 languages">32 languages</option>
+<option value="de">Deutsch</option>
+<option value="en" selected="selected">English</option>
+<option value="en_US" selected="selected">English US</option>
+<option value="es">Español</option>
+<option value="fr">Français</option>
+<option value="it">Italiano</option>
+<option value="zh_CN">中文简体</option>
+<option value="zh_TW">中文繁體</option>
+<option value="pl">Polski</option>
+<option value="separator">---------------------</option>
+<option value="af">Afrikaans</option>
+<option value="ca">Català</option>
+<option value="cs">Čeština</option>
+<option value="da">Dansk</option>
+<option value="et">Eesti</option>
+<option value="el">Ελληνικά</option>
+<option value="hi">हिन्दी</option>
+<option value="hr">Hrvatski</option>
+<option value="zu">IsiZulu</option>
+<option value="ja">日本語</option>
+<option value="ko">한국어</option>
+<option value="lv">Latviešu</option>
+<option value="lt">Lietuviškai</option>
+<option value="hu">Magyar</option>
+<option value="nl">Nederlands</option>
+<option value="no">Norsk</option>
+<option value="pt">Português</option>
+<option value="ru">Русский</option>
+<option value="sl">Slovenščina</option>
+<option value="sk">Slovenčina</option>
+<option value="fi">Suomi</option>
+<option value="sv">Svenska</option>
+<option value="tr">Türkçe</option>
+</select>
+<input name="changeLanguage" type="submit" id="changeLanguage"/>
+</label>
+</fieldset>
+</form>
+</li>
+</ul>
+<div class="navWrapper">
+<div class="logo">
+<a rel="nofollow" href="/web3/showHomepage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=show">
+<img src="http://www.hrsstatic.com/web3/images/wide/_general/en/logo_hrs_trans.png" alt="Back to the HRS homepage"/>
+</a>
+</div>
+<script type="text/javascript" src="http://www.hrsstatic.com/web3/js/LAB.min.js"></script>
+<script type="text/javascript" src="http://www.hrsstatic.com/web3/js/mootoolsCoreCompressed.js"></script>
+<script type="text/javascript">//<![CDATA[
+buildCalIframe=function(){};try{var activeXAvailable=new ActiveXObject("Microsoft.XMLHTTP");}catch(err){}
+var globals={UseLocalXHR:(activeXAvailable?true:false),Debug:false,AlwaysPreserveOrder:false,AllowDuplicates:false}
+$LAB.setGlobalDefaults(globals);$LABQueue=$LAB.sandbox();$LABQueue.setGlobalDefaults(globals);$LAB.script('http://www.hrsstatic.com/web3/js/engineCompressed.js').wait(function(){window.opera8=false;var onloadJS='http://www.hrsstatic.com/web3/js/empty.js';dwr.engine._origScriptSessionId="7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4";dwr.engine._defaultPath="/web3/dwr";dwr.engine._sessionCookieName="JSESSIONID";dwr.engine._allowGetForSafariButMakeForgeryEasier="false";dwr.engine._scriptTagProtection="throw 'allowScriptTagRemoting is false.';";}).script('http://www.hrsstatic.com/web3/dwr/interface/MyHRSLogin.js').script('http://www.hrsstatic.com/web3/dwr/interface/NewsletterSubscription.js').script('http://www.hrsstatic.com/web3/dwr/interface/SettingAttributeManager.js').wait(function(){var jsPath='http://www.hrsstatic.com/web3/js/';}).script('http://www.hrsstatic.com/web3/js/hrsCompressedMore-wide-start.js').wait(function(){var domReadyNotFired=true;window.addEvent('domready',function(){domReadyNotFired=false;if(typeof onloadSuggest=='function'){if(Browser.ie8||Browser.ie7){setTimeout(function(){window.onloadSuggest()},500)}else{onloadSuggest();}}
+if(Browser.ie7){$('nav').getElements('li').addEvent('mouseenter',function(){var theNextEl=this.getNext();console.log(!this.hasClass('hasHotline'),this)
+if(theNextEl){if(!theNextEl.hasClass('hasHotline')&&!this.hasClass('hasHotline')){this.getNext().getElement('a').setStyle('background','none')}}});$('nav').getElements('li').addEvent('mouseleave',function(){var theNextEl=this.getNext();if(theNextEl){if(!theNextEl.hasClass('hasHotline')&&!this.hasClass('hasHotline')&&this.getNext().getElement('a')){this.getNext().getElement('a').removeProperty("style");}}})}
+var s=new Date().getTime();new Tips($$('.tooltip'));new ClickTracker({checkClass:'jsTrackLink'});new TeaserTracker({checkClass:'jsTeaser'});new Popup($$('.jsHotline'),{width:'465',height:'560'});if(Browser.ie6){var flyOut1=new Flyout($$('#meta li, #nav li'),'jsHover');var flyOut2=new Flyout($$('#meta li.first'),'jsFirstHover');}else if(Browser.ie7){new FlyoutDelayed($$('#nav > li.sub'),'jsHover');}else{new FlyoutDelayed($$('#nav > li.myhrs'),'jsHover');}
+initDateContainer();window.mapBrowser=(Browser.ie&&!Browser.ie6)||(Browser.opera)||(Browser.firefox)||(Browser.safari)||(Browser.chrome);var veMapSearch=$('veMapSearch');if((window.mapBrowser)&&veMapSearch){veMapSearch.value='true';}
+new SelectLanguage('language');new Newsletter({subscriptionErrorEmailEmpty:'<h4>'+'Warning!'+'</h4><p>'+'Please enter your e-mail address.'+'</p>',subscriptionErrorEmailNotValid:'<h4>'+'Warning!'+'</h4><p>'+'Please enter a valid e-mail address.'+'</p>',subscriptionErrorCommonError:'<h4>'+'Warning!'+'</h4><p>'+'Subscription failed.'+'</p>',subscriptionErrorIsSubscriped:'<h4>'+'Warning!'+'</h4><p>'+'The e-mail address \"{0}\" is already subscribed to the HRS newsletter.'+'</p>',subscriptionSuccessful:'<h4>'+'Thank you for subscribing'+'</h4><p>'+'You will receive an automatic confirmation by email.'+'</p>',windowClose:'Close',isHP:true});var searchForm=$('searchForm');if(searchForm){var HotelSearchObj=new HotelSearch(searchForm);new deleteTextInputValueIcon($('destiny'),{clearDependends:$('suggestedID')});new deleteTextInputValueIcon($('hotelName'));}
+new Popup($$('.jsPopup'));new FooterMenu($('footerMenuWrap'));new ContextSensitiveHelp($$('.jsHelp'),{firstDirection:'top'});new ContextSensitiveHelp.Bookmarks($$('.bookmarkLayer'),{firstDirection:'top',maxWidth:265,minWidth:265,closeText:'Close'});var myHrsLogin=new DWRLogin({properties:{hallo:'Hello'},reload:false,sessionId:'7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4',homepageReload:'https://www.hrs.com/web3/showHomepage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&cid=53-4&activity=show&differentLanguage=true',isHomepage:true});openKissMeLayerPage=location.search.match(/openKisSMELayer=(\w*)/)?location.search.match(/openKisSMELayer=(\w*)/)[1]:'false';var usernameEmailPattern=/&username=([A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,6})/i,result=decodeURIComponent(location.search).match(usernameEmailPattern);if(result===null||!result.length){usernameEmailPattern=/&username=([\w-\.]*)/i;result=location.search.match(usernameEmailPattern);}
+window.kissmelightbox=new LightBox({lightBoxId:'KisSMELightBox',openInitial:false,page:openKissMeLayerPage,username:(result&&result.length>0)?result[1]:'',myHrsLogin:myHrsLogin,dynamicVerticalPosition:true,dynamicScrollFixedPosition:true,afterCreation:function(){this.wrap.addEvent('submit',function(event){event.stop();this.getContent(event.target,event)}.bind(this));this.wrap.addEvent('click',function(event){var target=event.target;if(target.get('tag')==='a'&&!target.get('onclick')&&!target.hasClass('close')){console.log(target);event.stop();this.getContent(target.get('href'));}}.bind(this));},beforeClose:function(){window.trackingTracker.trackFormExit('smeLightboxClose');},close:function(){if(window.mainPageNameForTracking){window.s.pageName=window.mainPageNameForTracking;window.mainPageNameForTracking=null;}
+if(window.mainMetaDataObject&&window.md){window.md=window.mainMetaDataObject;window.mainMetaDataObject=null;if(window.wa){window.wa.viewChange('SMELayerClose',{});}}
+console.log('login: ',typeof this.loginObject!=='undefined',typeof this.options.myHrsLogin!=='undefined',true);if(typeof this.loginObject!=='undefined'&&typeof this.options.myHrsLogin!=='undefined'&&true){this.options.myHrsLogin.response(this.loginObject);}},xhrError:function(){console.log('todo XHR Error');}});$$('.jsOpenKissmeLayer').addEvent('click',function(event){event.preventDefault();var href=this.getAttribute('data-kissmehref')||this.href;window.kissmelightbox.openLightBox(href);});if(kissmelightbox.options.page==='true'){kissmelightbox.openLightBox('/web3/showPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&cid=53-4&page=smeUserRegistration');}else if(kissmelightbox.options.page!=='false'){kissmelightbox.openLightBox('/web3/showPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&cid=53-4&page='+kissmelightbox.options.page+"&username="+kissmelightbox.options.username);}
+if(window.intNewsletter){intNewsletter();}
+if(Browser.Platform.android){new AndroidTouchWA($$('#nav li.sub'));}
+$('isNext').removeClass('hide');new Toggler($('isNext'),$('showHideNext'),{toggleText:['Other search criteria','Close'],toggleTextType:'innerHTML'});if($('jsAkkordeon'))var a=new Akkordeon($('jsAkkordeon'),$$('#jsAkkordeon li'));if(window.LABQueueReady){$LABQueue.runQueue();}else{window.allowRunQueue=true;}
+var UserAgent=navigator.userAgent.toLowerCase();if(UserAgent.search(/(android | ipad | iphone)/)>-1){var mobileCounter=0;$('meta').getElement('a').addEvent('touchstart',function(){mobileCounter++;if(!(mobileCounter%2)==0){$('meta').getElement('ul').setStyle('display','block')}else{$('meta').getElement('ul').setStyle('display','none')
+window.location=$('meta').getElement('a').href;}})}});if(domReadyNotFired&&Browser.ie){window.checkLoadStatusInterval=window.setInterval('checkLoadStatus()',100);window.checkLoadStatus=function(){if(window.loaded&&checkLoadStatusInterval){clearInterval(checkLoadStatusInterval);if(domReadyNotFired){window.fireEvent('domready');}}}}}).wait(function(){window.flyoutIframeUrl='/web3/showPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&cid=53-4&page=spacer';window.calCloseMsg='close window';}).wait(function(){window.CLIENTNAME="NEXT";window.MAXROOMCOUNT=9;window.HELPSATELLITE="/web3/showPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&cid=53-4&page=userHelpSat&sat=manyrooms&satBundle=content.home.help";window.HELPSATELLITENAME="Help";window.GROUPSFAIRS="/web3/portalRedirect.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&cid=53-4&activity=callContactFormGbg";window.CHANGE_LANGUAGE_URL="/web3/showHomepage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4";window.cid="cid=53-4";window.dwrSessionId="7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4";window.ENCODED_CLIENT_IDS={"de":"ZGVfX05FWFQ-","en":"ZW5fX05FWFQ-","en_US":"ZW5fVVNfTkVYVA--","es":"ZXNfX05FWFQ-","fr":"ZnJfX05FWFQ-","it":"aXRfX05FWFQ-","zh_CN":"emhfQ05fTkVYVA--","zh_TW":"emhfVFdfTkVYVA--","pl":"cGxfX05FWFQ-","af":"YWZfX05FWFQ-","ca":"Y2FfX05FWFQ-","cs":"Y3NfX05FWFQ-","da":"ZGFfX05FWFQ-","et":"ZXRfX05FWFQ-","el":"ZWxfX05FWFQ-","hi":"aGlfX05FWFQ-","hr":"aHJfX05FWFQ-","zu":"enVfX05FWFQ-","ja":"amFfX05FWFQ-","ko":"a29fX05FWFQ-","lv":"bHZfX05FWFQ-","lt":"bHRfX05FWFQ-","hu":"aHVfX05FWFQ-","nl":"bmxfX05FWFQ-","no":"bm9fX05FWFQ-","pt":"cHRfX05FWFQ-","ru":"cnVfX05FWFQ-","sl":"c2xfX05FWFQ-","sk":"c2tfX05FWFQ-","fi":"ZmlfX05FWFQ-","sv":"c3ZfX05FWFQ-","tr":"dHJfX05FWFQ-"};window.CLIENT_CONFIG_ID='';});if(window.attachEvent){window.attachEvent("onload",function(){window.loaded=true});}
+window.addEvent('load',function(){var isiPad=navigator.userAgent.match(/iPad/i)!=null;if(!isiPad){function preloadnoStartEls(){var i=0,max=0,o=null,array=['http://www.hrsstatic.com/web3/css/wide/mainCompressed.css','http://www.hrsstatic.com/web3/js/hrsCompressedMore-wide.js'],isIE=navigator.appName.indexOf('Microsoft')===0;for(i=0,max=array.length;i<max;i+=1){if(isIE||Browser.chrome){new Image().src=array[i];continue;}
+o=document.createElement('object');o.data=array[i];o.width=0;o.height=0;document.body.appendChild(o);}}
+var t=setTimeout(function(){preloadnoStartEls()},1000);}});
+//]]></script>
+<div style="position: absolute; top: -1000em;">
+</div>
+<ul id="nav" class="en">
+<li class="sub ">
+<a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=specialOffers" id="mainNav_A_2">
+<span id="mainNav_SPAN_2" class="spanSub ">
+<span class="hide">menuItem.specialOffers</span>
+Deals &amp; Offers
+</span>
+</a>
+<ul><li><a rel="nofollow" href="https://www.hrs.com/deals/index/l/en/?customerId=1016845001" target="_blank">HRS Deals</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=1&amp;pageId=standard-02731" target="_self">Great Deals</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=2&amp;pageId=standard-02729" target="_self">Exclusive Price</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=3&amp;pageId=standard-02699" target="_self">Newly Opened Hotels</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=4&amp;pageId=standard-02855" target="_self">Rental Cars</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=5&amp;pageId=standard-19651" target="_self">Deutsche Bahn</a></li></ul>
+</li>
+<li class="sub ">
+<a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=specials" id="mainNav_A_3">
+<span id="mainNav_SPAN_3" class="spanSub ">
+<span class="hide">menuItem.specials</span>
+Theme hotels
+</span>
+</a>
+<ul><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=0&amp;pageId=standard-02439" target="_self">Resorts</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=1&amp;pageId=standard-01809" target="_self">Design</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=2&amp;pageId=standard-01817" target="_self">Golf</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=3&amp;pageId=standard-02413" target="_self">Luxury</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=4&amp;pageId=standard-02565" target="_self">Spa</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=5&amp;pageId=standard-02415" target="_self">Château & Castle Hotels</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=6&amp;pageId=standard-02417" target="_self">Beach</a></li><li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;levelFirstItem=7&amp;pageId=standard-02757" target="_self">Hotel chains</a></li></ul>
+</li>
+<li class="hasSuper sub ">
+<a rel="nofollow" href="/web3/showConferencesGroupsFairs.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showConferenceOverview" id="mainNav_A_4">
+<span id="mainNav_SPAN_4" class="spanSub ">
+<span class="hide">menuItem.conference</span>
+Business travel
+</span>
+</a>
+<span class="newSuper">
+New! The Business rate
+</span>
+<ul><li><a rel="nofollow" href="/web3/showConferencesGroupsFairs.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showConferenceOverview&amp;levelFirstItem=0">Business rate</a></li><li><a rel="nofollow" href="http://corp3.hrs.de/portal?lang=en" target="_blank">Corporate customer portal</a></li><li><a rel="nofollow" href="/web3/portalRedirect.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=callConference&amp;levelFirstItem=2">Conferences</a></li><li><a rel="nofollow" href="/web3/portalRedirect.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=callGroup&amp;levelFirstItem=3">group travel</a></li></ul>
+</li>
+<li>
+<a rel="nofollow" href="/web3/portalRedirect.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=callGroup" id="mainNav_A_5">
+<span id="mainNav_SPAN_5" class=" ">
+<span class="hide">menuItem.group</span>
+Groups
+</span>
+</a>
+</li>
+<li>
+<a rel="nofollow" href="https://www.hrs.com/web3/setBookingRequest.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showBookingRequest" id="mainNav_A_6">
+<span id="mainNav_SPAN_6" class=" changeCancel ">
+<span class="hide">menuItem.changeCancel</span>
+Change/Cancel
+</span>
+</a>
+</li>
+<li class="hasHotline">
+<p class="jsHotLine">
+<a rel="nofollow" href="/web3/selectHotline.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showHotlines" class="jsHotline hotlineInfo">
+24/7 customer service<br/>
+<span> 0800 4401556</span>
+</a>
+</p>
+</li>
+<li class="myhrs
+                            
+                        
+
+                         sub " id="isMyhrs">
+<a rel="nofollow" href="https://www.hrs.com/web3/showProfile.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=show" id="mainNav_A_7">
+<span id="mainNav_SPAN_7" class="spanSub ">
+<span class="hide">menuItem.personalized</span>
+<span class="hrs_sprite hrs_sprite_myhrs"></span>
+<span class="hrs_myhrs_login_text" data-guest_message="Log in to My HRS">
+Log in to My HRS
+</span>
+<span class="hrs_sprite hrs_myhrslogin_right"></span>
+<script type="text/javascript">if(typeof window.hrs==="undefined"){window.hrs={};}
+window.hrs.xdIframeLoginProxyOptions={src:"https://www.hrs.com/web3/showPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&page=xdIframeLoginProxy".replace(/&amp;/,"&")};</script>
+</span>
+</a>
+<ul> <li class="logout hide">
+<p>
+</p>
+<span class="button global"><span>
+<a rel="nofollow" href="/web3/processLogin.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=logout">Logout</a>
+</span></span>
+</li>
+<li class="login sub">
+<form id="loginFlyout" name="profileForm" autocomplete="off" method="post" action="https://www.hrs.com/web3/processLogin.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4">
+<fieldset>
+<strong>Login:</strong>
+<input type="hidden" name="activity" value="login"/>
+<input type="hidden" name="loginKey" value="QOyZXo1907"/>
+<input type="hidden" id="originUrl" name="originUrl" value=""/>
+<input type="hidden" id="classicLogin" name="classicLogin" value=""/>
+<div class="myhrsLoginLabelWrap"><input type="text" name="username" maxlength="90" autocomplete="off" value="" class="text" id="username"/><label for="username">Username</label></div>
+<div class="myhrsLoginLabelWrap"><input type="password" name="password" maxlength="64" value="" class="text" id="password"/><label for="password">Password</label></div>
+<div class="ie6myHRSFix">
+<a rel="nofollow" href="https://www.hrs.com/web3/showProfile.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=initLostPassword" class="link">Forgotten your login details?</a><br/>
+<a rel="nofollow" href="https://www.hrs.com/web3/showProfile.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showRegister" class="link loginRegister">New here? Go to registration</a>
+</div>
+<span class="button global"><span>
+<input type="submit" id="flyoutSubmitButton" name="doLogin" value="Login"/>
+</span></span>
+</fieldset>
+</form>
+</li>
+<li class="loginRegisterPrivate hide"> <a class="hrs_anchor" rel="nofollow" href="https://www.hrs.com/web3/showProfile.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showRegister" class="link loginRegister"><span>New here? Go to registration</span><span class="hrs_sprite hrs_sprite_next">&nbsp;</span></a> </li>
+<li class="loginRegisterBusiness hide"> <a class="hrs_anchor jsOpenKissmeLayer" rel="nofollow" data-kissmehref="/web3/showPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;page=smeUserRegistration" href="https://www.hrs.com/web3/registerBusinessTraveller.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showRegisterBusiness" class="link loginRegister"><span>Are you a business traveler?</span><span class="hrs_sprite hrs_sprite_next">&nbsp;</span></a> </li>
+<li><a rel="nofollow" href="https://www.hrs.com/web3/showProfile.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=show&amp;levelFirstItem=0">Overview</a></li><li><a rel="nofollow" href="https://www.hrs.com/web3/showProfile.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showLightHistory&amp;levelFirstItem=1">Bookings</a></li><li><a rel="nofollow" href="https://www.hrs.com/web3/showProfile.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showFavorites&amp;levelFirstItem=2">Favorites</a></li><li><a rel="nofollow" href="https://www.hrs.com/web3/showProfile.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showHotelRating&amp;levelFirstItem=3">Evaluations</a></li><li><a rel="nofollow" href="https://www.hrs.com/web3/bookingTemplateList.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=template&amp;levelFirstItem=4">Personal settings</a></li><li><a rel="nofollow" href="https://www.hrs.com/web3/showProfile.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=userdata&amp;levelFirstItem=5">My details</a></li><li class="logoutOnly hide">
+<a class="hrs_button hrs_button_default" rel="nofollow" href="/web3/processLogin.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=logout" onclick="window.omitFormExitTracking=true;window.omitFormInfoCookie=true">Logout</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<!--[if !IE 6]><!-->
+<img width="200" height="63" src="http://www.hrsstatic.com/web3/images/wide/_general/en/logo_hrs_trans.png" alt="" class="printLogo"/>
+<!--<![endif]-->
+<!--[if IE 6]>
+								<img width="200" height="63" src="http://www.hrsstatic.com/web3/images/wide/_general/en/logo_hrs_print.png" alt="" class="printLogo" />
+							<![endif]-->
+<script type="text/javascript">//<![CDATA[
+var dayNames=["Mon","Tue","Wed","Thu","Fri","Sat","Sun"];var monthNames=["January","February","March","April","May","June","July","August","September","October","November","December"];var iconPath="http://www.hrsstatic.com/web3/images/wide/_general/_general/icons/calendar.png";var tooltipPath="/web3/showCalendarTooltip.do?applicationFeature=searchBooking&jsPath=http://www.hrsstatic.com/web3/js/&imgPath=http://www.hrsstatic.com/web3/images/wide/&cssPath=http://www.hrsstatic.com/web3/css/wide/";var tooltipText="Calendar";var dateSep="/"
+var dateStr="M/d/yy"
+buildCalIframe();
+//]]></script>
+<table id="calTab" cellspacing="0">
+<tbody id="calBody">
+<tr>
+<td colspan="7" id="calHead">
+<span id="nextM"></span>
+<span id="prevM"></span>
+<span id="monthHeader"></span>
+</td>
+</tr>
+</tbody>
+<tbody id="calFooter">
+<tr>
+<td colspan="7"><a href="javascript:cleanUpCal()" id="closeLink">close window</a></td>
+</tr>
+</tbody>
+</table>
+<div class="row1 " id="jsLoadPics">
+<script type="text/javascript">//<![CDATA[
+var vorabBelegung='Town, region, address, island, zip code';
+//]]></script>
+<div class="search " title="">
+<script type="text/javascript">//<![CDATA[
+window.countries=[];countries['4']="Afghanistan";countries['1']="Egypt";countries['5']="Albania";countries['6']="Algeria";countries['176']="Andorra";countries['7']="Angola";countries['244']="Anguilla";countries['8']="Antigua and Barbuda";countries['2']="Equatorial Guinea";countries['9']="Argentina";countries['225']="Armenia";countries['246']="Aruba";countries['226']="Azerbaijan";countries['3']="Ethiopia";countries['10']="Australia";countries['11']="Bahamas";countries['12']="Bahrain";countries['13']="Bangladesh";countries['14']="Barbados";countries['15']="Belgium";countries['16']="Belize";countries['17']="Benin";countries['18']="Bermuda";countries['19']="Bhutan";countries['20']="Burma (Myanmar)";countries['21']="Bolivia";countries['228']="Bosnia-Herzegovina";countries['22']="Botswana";countries['23']="Brazil";countries['248']="British Virgin Islands";countries['24']="Brunei";countries['25']="Bulgaria";countries['26']="Burkina Faso";countries['27']="Burundi";countries['28']="Chile";countries['29']="People's Republic of China";countries['186']="Cook Islands";countries['31']="Costa Rica";countries['32']="Denmark";countries['33']="Germany";countries['34']="Dominica";countries['35']="Dominican Republic";countries['36']="Djibouti";countries['37']="Ecuador";countries['39']="El Salvador";countries['38']="Cote d'Ivoire (Ivory Coast)";countries['229']="Eritrea";countries['201']="Estonia";countries['40']="Falkland Islands";countries['41']="Fiji";countries['42']="Finland";countries['43']="France";countries['194']="French Guyana";countries['44']="Gabon";countries['45']="Gambia";countries['230']="Georgia";countries['46']="Ghana";countries['47']="Gibraltar";countries['48']="Grenada";countries['49']="Greece";countries['50']="United Kingdom";countries['175']="Guadeloupe";countries['51']="Guatemala";countries['52']="Guinea";countries['53']="Guinea-Bissau";countries['54']="Guyana";countries['55']="Haiti";countries['56']="Honduras";countries['57']="Hong Kong";countries['58']="India";countries['59']="Indonesia";countries['60']="Iraq";countries['61']="Iran";countries['62']="Ireland (Eire)";countries['63']="Iceland";countries['64']="Israel";countries['65']="Italy";countries['66']="Jamaica";countries['67']="Japan";countries['68']="Yemen";countries['70']="Jordan";countries['180']="Virgin Islands";countries['72']="Cayman Islands";countries['74']="Cambodia";countries['73']="Cameroon";countries['75']="Canada";countries['76']="Cape Verde";countries['231']="Kazakhstan";countries['77']="Qatar";countries['78']="Kenya";countries['232']="Kirgizstan";countries['233']="Kiribati";countries['79']="Colombia";countries['80']="Comoros";countries['81']="Congo";countries['199']="Croatia";countries['84']="Cuba";countries['85']="Kuwait";countries['86']="Laos";countries['87']="Lesotho";countries['223']="Latvia";countries['88']="Lebanon";countries['89']="Liberia";countries['90']="Libya";countries['173']="Liechtenstein";countries['234']="Lithuania";countries['91']="Luxembourg";countries['92']="Macau";countries['93']="Madagascar";countries['94']="Malawi";countries['95']="Malaysia";countries['96']="Maldives";countries['97']="Mali";countries['98']="Malta";countries['192']="Mariana Islands";countries['99']="Morocco";countries['235']="Marshall Islands";countries['174']="Martinique";countries['100']="Mauritania";countries['101']="Mauritius";countries['236']="Macedonia";countries['102']="Mexico";countries['237']="Moldova";countries['177']="Monaco";countries['103']="Mongolia";countries['254']="Montenegro";countries['264']="Serbia";countries['245']="Montserrat";countries['104']="Mozambique";countries['195']="Namibia";countries['238']="Nauru";countries['105']="Nepal";countries['106']="New Caledonia";countries['107']="New Zeeland";countries['108']="Nicaragua";countries['110']="The Netherlands";countries['109']="Dutch Antilles";countries['111']="Niger";countries['112']="Nigeria";countries['82']="North Korea";countries['113']="Norway";countries['115']="Oman";countries['114']="Austria";countries['116']="Pakistan";countries['239']="Palau";countries['117']="Panama";countries['118']="Papua New Guinea";countries['119']="Paraguay";countries['120']="Peru";countries['121']="Philippines";countries['122']="Poland";countries['123']="Portugal";countries['178']="Puerto Rico";countries['193']="Reunion";countries['124']="Kinyarwanda";countries['125']="Romania";countries['202']="Russia";countries['126']="Solomon Islands";countries['127']="Zambia";countries['128']="Samoa";countries['171']="San Marino";countries['129']="Sao Tome and Principe";countries['130']="Saudi Arabia";countries['131']="Sweden";countries['132']="Switzerland";countries['133']="Senegal";countries['134']="Seychelles";countries['135']="Sierra Leone";countries['137']="Singapore";countries['200']="Slovakia";countries['198']="Slovenia";countries['138']="Somalia";countries['140']="Spain";countries['141']="Sri Lanka";countries['142']="St. Kitts and Nevis";countries['143']="St. Lucia";countries['144']="St. Vincent";countries['146']="South Africa";countries['145']="Sudan";countries['83']="South Korea";countries['147']="Surinam";countries['148']="Swaziland";countries['149']="Syria";countries['240']="Tajikistan";countries['170']="Tahiti";countries['30']="Taiwan";countries['150']="Tanzania";countries['151']="Thailand";countries['152']="Togo";countries['153']="Tonga";countries['154']="Trinidad and Tobago";countries['155']="Chad";countries['156']="Czech Republic";countries['158']="Tunisia";countries['157']="Turkey";countries['241']="Turkmenistan";countries['247']="Turks and Caicos Islands";countries['242']="Tuvalu";countries['159']="Uganda";countries['197']="Ukraine";countries['160']="Hungary";countries['161']="Uruguay";countries['165']="United States of America";countries['224']="Uzbekistan";countries['191']="Vanuatu";countries['172']="Vatican City";countries['163']="Venezuela";countries['164']="United Arab Emirates";countries['166']="Vietnam";countries['227']="Belarus";countries['167']="Zaire";countries['168']="Central African Republic";countries['136']="Zimbabwe";countries['169']="Cyprus";countries['276']="South Sudan";countries['277']="Kosovo";window.onloadSuggest=function(){if(typeof $=='undefined'){var $=function(string){return document.getElementById(string);}}
+if($('destiny')!=null){addSuggestField("");initMMSuggest();}
+return true;}
+function initMMSuggest(){if(typeof $=='undefined'){var $=function(string){return document.getElementById(string);}}
+var searchFormElement=$?$('searchForm'):false;if(searchFormElement&&searchFormElement.addEvent){searchFormElement.addEvent('submit',function(e){var data;if(window.mmSuggestSelectionTrackingData){data=s.pageName+';'+window.mmSuggestSelectionTrackingData;}else{data=s.pageName+';Matchmaker;No Choice;'}
+var cookieKey='clickTracking';var doNothing=function(){};var readCookie=Cookie.read?Cookie.read:(Cookie.get?Cookie.get:doNothing);var writeCookie=Cookie.write?Cookie.write:(Cookie.set?Cookie.set:doNothing);deferredClickTrackingData=readCookie(cookieKey);var clickTrackingObj;if(deferredClickTrackingData!=null&&deferredClickTrackingData.length>0){clickTrackingObj=JSON.decode(deferredClickTrackingData);if(clickTrackingObj.prop28){clickTrackingObj.prop28=clickTrackingObj.prop28+','+data;}else{clickTrackingObj.prop28=data;}}else{clickTrackingObj={};clickTrackingObj.prop28=data;}
+writeCookie(cookieKey,JSON.encode(clickTrackingObj));});}
+var overObj=[$('start_stayPeriod'),$('end_stayPeriod'),$('singleRooms'),$('doubleRooms'),$('adults'),$('children'),$('perimeter'),$('age_0'),$('acc_0'),$('age_1'),$('acc_1'),$('age_2'),$('acc_2'),$('age_3'),$('acc_3'),$('age_4'),$('acc_4'),$('age_5'),$('acc_5'),$('rating')];SetupMMSuggest($('destiny'),{'requestURL':mmURLBase+"?max_results=25&Keywords=$v$&query=$v$&Language=en&Language_mode=exact&bias=100&TranslitName=$v$&Filter=0",'debug':false,'preFunction':function(target,rows){window.mmSuggestSelectionTrackingData=null;try{target.originalRows=rows;var root=new MMNode("","",target.value);window.hotelSearch_mmSuggestRoot=root;var sRows=rows;for(var z=0;z<sRows.length;z++){var cat=sRows[z][1];if(sRows[z][1]=='LOC')
+cat="Location";if(sRows[z][1]=='POI')
+cat="Point of interest";if(sRows[z][1]=="FPOI")
+cat="Company location";if(sRows[z][1]=="REG")
+cat="Region";if(sRows[z][1]=="IATA")
+cat="IATA";if(sRows[z][1]=="DIST")
+cat="District";var node=new MMNode(sRows[z][0],cat,sRows[z][0]);node.row=sRows[z];root.group(node);}
+var result=[];if((target.parameters.flags&AS_NO_ROOT)==AS_NO_ROOT){root.levelUp();for(var i=0;i<root.children.length;i++){root.children[i].parent=null;}
+root.getAsArray(result);result.shift();}else{root.getAsArray(result);}
+return result;}catch(E){if(target.parameters.debug)
+alert("groupedPreFunction error: "+E);}},'headerFunction':function(parent,rowArray){var result="<div class=\"mmheadline\" align=\"left\"><div>Choose a proposal or browse our locations.</div></div>";return result;},'footerFunction':function(parent,rowArray){var footer="<div class=\"suggFooter\"></div>";return footer;},'rowFunction':function(target,rowArray,field_index,row,iDiv){try{if(((target.parameters.flags&AS_DISPLAY_INPUT)==AS_DISPLAY_INPUT)&&(row==0)){var ih="<span class='suggInputHeader'><nobr>"+replaceHTMLEntities(rowArray[row][1])+" \""+replaceHTMLEntities(rowArray[row][0])+"\"</nobr></span>"
+iDiv.innerHTML=ih;return false;}
+var node=rowArray[row][2];var value=node.label;var cat=node.cat;var origrow=node.row;var iconSrc=target.parameters.iconPath+"ordner.gif";var ph=[];if(node.children.length==0){iconSrc=target.parameters.iconPath+"platzhalter.gif";}else if(node.parent!=null){ph.push("<");ph.push("img align='middle'");ph.push(" alt=''");ph.push(" src='");ph.push(target.parameters.iconPath);if(node.isLastChild()){ph.push("lastchild.gif");ph.push("'>");}else{ph.push("child.gif");ph.push("'>");}}
+var parent=node;for(var i=node.level-1;i>0;i--){parent=parent.parent;var ph2=[];ph2.push("<");ph2.push("img align='middle'");ph2.push(" alt=''");ph2.push(" src='");ph2.push(target.parameters.iconPath);if(parent.isLastChild()){ph2.push("platzhalter.gif");ph2.push("'>");}else{ph2.push("line.gif");ph2.push("'>");}
+ph=ph2.concat(ph);}
+var result=true;var icon=[];icon.push("<");icon.push("img align='middle'");icon.push(" alt=''");icon.push(" src='");if(node.children.length>0){iconSrc=target.parameters.iconPath+"ordner.gif";icon.push(iconSrc);icon.push("'>");var iconText=icon.join('');var ih="<span class='suggGroupCaption'><nobr>"+ph.join('')+iconText+replaceHTMLEntities(rowArray[row][0])+"&nbsp;&nbsp;</nobr></span>";result=(target.parameters.flags&AS_GENERATED_CATEGORIES_NOT_SELECTABLE)!=AS_GENERATED_CATEGORIES_NOT_SELECTABLE;}else{icon.push(iconSrc);icon.push("'>");iconText=icon.join('');var ih="<span class='suggGroupProductOnly'><nobr>"+ph.join('')+iconText+replaceHTMLEntities(rowArray[row][0])+(origrow[2]!=''?'&nbsp;'+replaceHTMLEntities(origrow[2]):'')+(origrow[10]!=''&&countries[origrow[10]]!=null?'&nbsp;- '+replaceHTMLEntities(countries[origrow[10]]):'')+"</nobr></span>";}
+iDiv.innerHTML=ih;return result;}catch(E){alert("mmGroupedRowFunction error: "+E);}},'overlappedObjects':overObj,'onActivate':function(input,row){var node=row[2];var realRow=node.row;if(realRow==null){realRow=[node.value];for(var i=1;i<input.originalRows[0].length;i++)
+realRow.push("");}
+if(realRow[1].match('POI')){addSuggestField('*'+realRow[6]);}else if(realRow[1].match('LOC')){addSuggestField('%'+realRow[6]);}else if(realRow[1].match('REG')){addSuggestField('%'+realRow[6]);}else if(realRow[1].match('FPOI')){addSuggestField('*'+realRow[6]);}else if(realRow[1].match('IATA')){addSuggestField('%'+realRow[6]);}else if(realRow[1].match('DIST')){addSuggestField('%'+realRow[6]);}else{alert('fehler: '+realRow[1]);}
+var catPos=0;var totPos=0;var categories=window.hotelSearch_mmSuggestRoot.children;catLoop:for(var i=0;i<categories.length;i++){var itemsInCat=categories[i].children;for(var j=0;j<itemsInCat.length;j++){totPos++;if(itemsInCat[j]==row[2]){catPos=j+1;break catLoop;}}}
+var category=realRow[1];window.mmSuggestSelectionTrackingData="Matchmaker;"+totPos+";"+category+":"+catPos;$('destiny').value=replaceEntity(realRow[0])+(realRow[2]!=''?' '+replaceEntity(realRow[2]):'');},'flags':AS_TABSELECTS+AS_NO_ROOT+AS_NOLOGO+AS_DISPLAY_INPUT+AS_GENERATED_CATEGORIES_NOT_SELECTABLE,'normalfg':'#000033','normalbg':'#ffffff','highlightfg':'#000033','highlightbg':'#b0b7bd','width':391,'inputTitle':"Proposals on your search for"})
+if(Browser.ie8||Browser.ie7){setTimeout(function(){if(window.MooTools){var input=$($('destiny'));if(input&&typeof input==='object'){input.addEvent('keyup',triggerResize);}}},500);}else{if(window.MooTools){var input=$($('destiny'));if(input&&typeof input==='object'){input.addEvent('keyup',triggerResize);}}}}
+function triggerResize(evt){if(window.mmOnResize&&typeof mmOnResize==='function'){$(evt.target).removeEvent('keyup',triggerResize);mmOnResize();}}
+function replaceEntity(str){return str.replace(/&amp;/g,"&");}
+function addSuggestField(value){if(typeof $=='undefined'){var $=function(string){return document.getElementById(string);}}
+var tmpForm=$('destiny').form;var tmpFieldID="suggestedID";if(tmpForm.elements[tmpFieldID]==null){var hiddenField=document.createElement("input");hiddenField.setAttribute("type","hidden");hiddenField.setAttribute("name",tmpFieldID);hiddenField.setAttribute("id",tmpFieldID);hiddenField.setAttribute("value",value);tmpForm.appendChild(hiddenField);}else{tmpForm.elements[tmpFieldID].value=value;}}
+//]]></script>
+<form name="searchForm" method="post" action="/web3/searchWeb1000.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4" class="" id="searchForm" novalidate="novalidate">
+<div class="sh"></div>
+<div class="hide">
+<input type="hidden" name="activity" value="initSearch" class="standard"/>
+<input type="hidden" name="hotelThemesType" value="" class="standard"/>
+<input type="hidden" name="searchSource" value="1" class="standard" id="searchSource"/>
+<input type="hidden" name="stopWatchTime"/>
+</div>
+<fieldset>
+<label for="destiny" class="autoWidth hrs_relative">Destination<br/>
+<input type="text" name="location" maxlength="200" autocomplete="off" value="" class="text destiny noEvent" id="destiny"/>
+</label>
+</fieldset>
+<fieldset>
+<label for="start_stayPeriod" class="cal left">
+Arrival<br/>
+<input type="text" name="stayPeriod.start.date" value="5/22/14" onfocus="startCal(this, new Date(2014,4,22), null, 1, null);" class="dateInput text" id="start_stayPeriod"/>
+</label>
+<label for="end_stayPeriod" class="cal left2">
+Departure<br/>
+<input type="text" name="stayPeriod.end.date" value="5/23/14" onfocus="startCal(this, new Date(2014,4,22), null, 1, null);" class="dateInput text" id="end_stayPeriod"/>
+</label>
+<div class="clearFix"></div>
+<label for="singleRooms" class="left small">Single rooms<br/>
+<input type="number" name="singleRooms" value="" onkeydown="validateInputNumber(event);" class="text" id="singleRooms"/>
+</label>
+<label for="doubleRooms" class="left small">Double rooms<br/>
+<input type="number" name="doubleRooms" value="" onkeydown="validateInputNumber(event);" class="text" id="doubleRooms"/>
+</label>
+<div class="clearFix"></div>
+<label for="adults" class="left small clearFix">Adults<br/>
+<input type="number" name="adults" value="" onkeydown="validateInputNumber(event);" class="text" id="adults"/>
+</label>
+<label for="children" class="left small">
+Children<br/>
+<select name="children" class="" id="children">
+<option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+</select>
+<input type="submit" name="submitChildren" class="jsFreeSubmit"/>
+</label>
+<div class="clearFix"></div>
+<div id="childrenWrap">
+<div class="hide">
+<h4>1. Child</h4>
+<label for="age_0" class="age">Age:<br/>
+<select name="childAccomodations[0].age" class="" id="age_0">
+<option value="-1" selected="selected">-</option>
+<option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+</select>
+</label>
+<label for="acc_0">Beds:<br/>
+<select name="childAccomodations[0].accomodation" class="" id="acc_0">
+<option value="1">In parents&#39; bed</option>
+<option value="0">In extra bed</option>
+<option value="2">Separate room</option>
+</select>
+</label>
+</div>
+<div class="hide">
+<h4>2. Child</h4>
+<label for="age_1" class="age">Age:<br/>
+<select name="childAccomodations[1].age" class="" id="age_1">
+<option value="-1" selected="selected">-</option>
+<option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+</select>
+</label>
+<label for="acc_1">Beds:<br/>
+<select name="childAccomodations[1].accomodation" class="" id="acc_1">
+<option value="1">In parents&#39; bed</option>
+<option value="0">In extra bed</option>
+<option value="2">Separate room</option>
+</select>
+</label>
+</div>
+<div class="hide">
+<h4>3. Child</h4>
+<label for="age_2" class="age">Age:<br/>
+<select name="childAccomodations[2].age" class="" id="age_2">
+<option value="-1" selected="selected">-</option>
+<option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+</select>
+</label>
+<label for="acc_2">Beds:<br/>
+<select name="childAccomodations[2].accomodation" class="" id="acc_2">
+<option value="1">In parents&#39; bed</option>
+<option value="0">In extra bed</option>
+<option value="2">Separate room</option>
+</select>
+</label>
+</div>
+<div class="hide">
+<h4>4. Child</h4>
+<label for="age_3" class="age">Age:<br/>
+<select name="childAccomodations[3].age" class="" id="age_3">
+<option value="-1" selected="selected">-</option>
+<option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+</select>
+</label>
+<label for="acc_3">Beds:<br/>
+<select name="childAccomodations[3].accomodation" class="" id="acc_3">
+<option value="1">In parents&#39; bed</option>
+<option value="0">In extra bed</option>
+<option value="2">Separate room</option>
+</select>
+</label>
+</div>
+<div class="hide">
+<h4>5. Child</h4>
+<label for="age_4" class="age">Age:<br/>
+<select name="childAccomodations[4].age" class="" id="age_4">
+<option value="-1" selected="selected">-</option>
+<option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+</select>
+</label>
+<label for="acc_4">Beds:<br/>
+<select name="childAccomodations[4].accomodation" class="" id="acc_4">
+<option value="1">In parents&#39; bed</option>
+<option value="0">In extra bed</option>
+<option value="2">Separate room</option>
+</select>
+</label>
+</div>
+<div class="hide">
+<h4>6. Child</h4>
+<label for="age_5" class="age">Age:<br/>
+<select name="childAccomodations[5].age" class="" id="age_5">
+<option value="-1" selected="selected">-</option>
+<option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+</select>
+</label>
+<label for="acc_5">Beds:<br/>
+<select name="childAccomodations[5].accomodation" class="" id="acc_5">
+<option value="1">In parents&#39; bed</option>
+<option value="0">In extra bed</option>
+<option value="2">Separate room</option>
+</select>
+</label>
+</div>
+</div>
+</fieldset>
+<fieldset class=" hide" id="isNext">
+<label for="rating" class="left small">Min. stars<br/>
+<select name="minRating" class="" id="rating">
+<option value="0">--</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+</select>
+</label>
+<label for="perimeter" class="left">Proximity<br/>
+<select name="perimeter" size="1" class="" id="perimeter">
+<option value="-1">miles</option>
+<option value="5">3 miles</option>
+<option value="8">5 miles</option>
+<option value="16">10 miles</option>
+<option value="32">20 miles</option>
+<option value="48">30 miles</option>
+<option value="64">40 miles</option>
+<option value="80">50 miles</option>
+</select>
+</label>
+<label for="hotelName">Particular hotel/chain?<br/>
+<input type="text" name="hotelname" value="" class="text" id="hotelName"/>
+</label>
+<div class="clearFix"></div>
+</fieldset>
+<a id="showHideNext" class="hide  closed false toggleWithTracking toggler">Other search criteria</a>
+<div class="separator"></div>
+<fieldset>
+<input class="button" name="submitBasicSearch" type="submit" value="Search for hotel"/>
+</fieldset>
+</form>
+</div>
+<div id="stage">
+<div class="claim" id="jsCLaim">
+<em>
+<span id="jsText1">The best rate for business</span><br/>
+<span id="jsText2">travelers</span>
+</em>
+<a class="button clearFix jsTrackLinkHPStage delay  " rel="nofollow" title="" target="_blank" href="/web3/showConferencesGroupsFairs.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showConferenceOverview&amp;lang=en&amp;lid=INT-HPT%3A{1}&amp;lpos=101_{2}"> Register now!</a>
+</div>
+<ul class="stageNav cL3" id="jsStageNav">
+<li class="jsTeaser" data-tid="THBP356_TQH-255385T" data-tpos="101_1" data-tiv="0">
+<div class="opBox">
+</div>
+<a class="jsTrackLinkHPStage delay" id="stageTab1" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=overview-27636&amp;lid=INT-HPT%3A{1}&amp;lpos=101_{2}" rel="nofollow" target="_self">Top Quality Hotels</a>
+</li>
+<li class="jsTeaser" data-tid="THBP590_FUTURE_PRT" data-tpos="101_2" data-tiv="0">
+<div class="opBox">
+</div>
+<a class="jsTrackLinkHPStage delay" id="stageTab2" href="/web3/showPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;amp;l=en&amp;page=tariff&amp;lid=INT-HPT%3A{1}&amp;lpos=101_{2}" rel="nofollow" target="_blank">HRS tariffs</a>
+</li>
+<li class="jsTeaser" data-tid="THBP581_TARIFF_TT" data-tpos="101_3" data-tiv="1">
+<div class="opBox">
+</div>
+<a class="jsTrackLinkHPStage delay" id="stageTab3" href="/web3/showConferencesGroupsFairs.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showConferenceOverview&amp;lang=en&amp;lid=INT-HPT%3A{1}&amp;lpos=101_{2}" rel="nofollow" target="_blank">Business tariff</a>
+</li>
+</ul>
+</div>
+<div class="setCenter" id="jsStageBox">
+<a href="/web3/showConferencesGroupsFairs.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showConferenceOverview&amp;lang=en&amp;lid=INT-HPT%3A{1}&amp;lpos=101_{2}" class="stagePic jsTrackLinkHPStage delay " target="_blank" title="" rel="nofollow"> <img src="http://www.hrsstatic.com/web3/teomedia/teomedia-en_US-14-17709" alt="" width="1130" height="440" id="jsStagePic"/></a>
+</div>
+<script type="text/javascript">//<![CDATA[
+$LABQueue.queueWait(function(){new Stage($$('#jsStageNav li'),{stagePics:["http://www.hrsstatic.com/web3/teomedia/teomedia-en_US-2-13345","http://www.hrsstatic.com/web3/teomedia/teomedia-en_US-8-17887","http://www.hrsstatic.com/web3/teomedia/teomedia-en_US-14-17709","",""],stageLinks:["/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&cid=53-4&pageId=overview-27636&lid=INT-HPT%3A{1}&lpos=101_{2}","/web3/showPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&cid=53-4&l=en&page=tariff&lid=INT-HPT%3A{1}&lpos=101_{2}","/web3/showConferencesGroupsFairs.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&cid=53-4&activity=showConferenceOverview&lang=en&lid=INT-HPT%3A{1}&lpos=101_{2}","",""],stageText1:["THE HRS TOP QUALITY HOTELS:","THE NEW HRS RATES: EASIER","The best rate for business","",""],stageText2:["FOR A PLEASANT STAY","BOOKING AND LOWER PRICES","travelers","",""],buttonText:["Book now","Learn more!","Register now!","",""],theTarget:["_self","_blank","_blank","",""],clickTracking:["{'adclick':'T6230','eVar9':':11','eVar10':'T6230','events':'event15','linkTrackVars':'eVar9,eVar10,events,prop9,eVar18,products','linkTrackEvents':'event15','prop9':':11','eVar18':';11;','linkname':'hptclick_101_1'}","{'adclick':'T6230','eVar9':':12','eVar10':'T6230','events':'event15','linkTrackVars':'eVar9,eVar10,events,prop9,eVar18,products','linkTrackEvents':'event15','prop9':':12','eVar18':';12;','linkname':'hptclick_101_2'}","{'adclick':'T6230','eVar9':':13','eVar10':'T6230','events':'event15','linkTrackVars':'eVar9,eVar10,events,prop9,eVar18,products','linkTrackEvents':'event15','prop9':':13','eVar18':';13;','linkname':'hptclick_101_3'}","",""],changeTracking:["{'prop18':';11','events':'event14','linkTrackVars':'prop18,eVar10,events,products','linkTrackEvents':'event14','products':';T6230','linkname':'hptchange_101_1'}","{'prop18':';12','events':'event14','linkTrackVars':'prop18,eVar10,events,products','linkTrackEvents':'event14','products':';T6230','linkname':'hptchange_101_2'}","{'prop18':';13','events':'event14','linkTrackVars':'prop18,eVar10,events,products','linkTrackEvents':'event14','products':';T6230','linkname':'hptchange_101_3'}","",""],uniqueIds:["P356_TQH-255385","P590_FUTURE_PR","P581_TARIFF_T","",""],activeIndex:3});});if(window.allowRunQueue){$LABQueue.runQueue();}else{window.LABQueueReady=true;}
+//]]></script>
+<script type="text/javascript">$LABQueue.queueWait(function(){window.trackingTracker.buildAndSendHomepageTrackingCall();var socialMediaLayer=$('socialMediaLayer');new SocialMediaLayer(socialMediaLayer,{isFB:true,isGoogle:true,isTwitter:true,country:'en_US',fbLanguage:'en_US'});var teaserRegister=new TeaserRegister({registerNavigationContainer:'jsCities',registerOffersContainer:'offerContainer',activeTab:0,texts:{ratings:'null evaluations'},theURL:'/web3/travelsuiteOffers.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&activity=retrieveRegisterOffers&tsSnippet='});if(Browser.ie7||Browser.ie8){var adjustSocialMediaLayerTimeout;function adjustSocialMediaLayer(isInitial){var windWidth=window.getSize().x;socialMediaLayer.style.position=windWidth<1236?'fixed':'absolute';}
+adjustSocialMediaLayer();function calladjustSocialMediaLayer(){if(adjustSocialMediaLayerTimeout){clearTimeout(adjustSocialMediaLayerTimeout);}
+adjustSocialMediaLayerTimeout=setTimeout(function(){adjustSocialMediaLayer();},300);}
+$(window).addEvent('resize',function(){adjustSocialMediaLayer();});}});if(window.allowRunQueue){$LABQueue.runQueue();}else{window.LABQueueReady=true;}</script>
+</div>
+<ul class="ads ">
+<li class="safeBooking">
+HRS price assurance, money-back guarantee</li><li>Free cancelation up to 6pm</li><li>Over 250,000 hotels worldwide
+</li>
+</ul>
+<div class="row2 hide" id="jsCityOffers">
+<ul class="cities" id="jsCities">
+<li class="" data-tid="85532" data-tpos="102_1" data-tiv="1">
+<a class="jsRegisterCity" href="#" data-travelsuite="homepage_prague" id="hptchange_21:T6288::prop18::T6288_3B_21::events::event14::linkTrackVars::prop18_2C_eVar10_2C_events_2C_products::linkTrackEvents::event14::products::_3B_T6288::linkname::hptchange_21:T6288">Prague</a><a id="hptclick_21:T6288::adclick::T6288::eVar9::T6288:21:Prague::eVar10::T6288::events::event15::linkTrackVars::eVar9_2C_eVar10_2C_events_2C_prop9_2C_eVar18_2C_products::linkTrackEvents::event15::prop9::T6288:21:Prague::eVar18::T6288_3B_21_3B_Link::linkname::hptclick_21:T6288" href="/web3/search.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=startSearch&amp;adults=1&amp;doubleRooms=0&amp;location=Prague&amp;singleRooms=1&amp;suggestedID=%2549370&amp;lid=INT-HPT%3AT6288T&amp;lpos=102_1" class="jsRegisterMoreOffers jsTrackLink jsTeaser " target="_self">More Hotels</a>|
+</li>
+<li class="" data-tid="85543" data-tpos="102_2" data-tiv="0">
+<a class="jsRegisterCity" href="#" data-travelsuite="homepage_berlin" id="hptchange_22:T6291::prop18::T6291_3B_22::events::event14::linkTrackVars::prop18_2C_eVar10_2C_events_2C_products::linkTrackEvents::event14::products::_3B_T6291::linkname::hptchange_22:T6291">Berlin</a><a id="hptclick_22:T6291::adclick::T6291::eVar9::T6291:22:Berlin::eVar10::T6291::events::event15::linkTrackVars::eVar9_2C_eVar10_2C_events_2C_prop9_2C_eVar18_2C_products::linkTrackEvents::event15::prop9::T6291:22:Berlin::eVar18::T6291_3B_22_3B_Link::linkname::hptclick_22:T6291" href="/web3/search.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=startSearch&amp;adults=1&amp;doubleRooms=0&amp;location=Berlín&amp;singleRooms=1&amp;suggestedID=%2555133&amp;lid=INT-HPT%3AT6291T&amp;lpos=102_2" class="jsRegisterMoreOffers jsTrackLink jsTeaser " target="_self">More Hotels</a>|
+</li>
+<li class="" data-tid="85536" data-tpos="102_3" data-tiv="0">
+<a class="jsRegisterCity" href="#" data-travelsuite="homepage_rome" id="hptchange_23:T6289::prop18::T6289_3B_23::events::event14::linkTrackVars::prop18_2C_eVar10_2C_events_2C_products::linkTrackEvents::event14::products::_3B_T6289::linkname::hptchange_23:T6289">Rome</a><a id="hptclick_23:T6289::adclick::T6289::eVar9::T6289:23:Rome::eVar10::T6289::events::event15::linkTrackVars::eVar9_2C_eVar10_2C_events_2C_prop9_2C_eVar18_2C_products::linkTrackEvents::event15::prop9::T6289:23:Rome::eVar18::T6289_3B_23_3B_Link::linkname::hptclick_23:T6289" href="/web3/search.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=startSearch&amp;adults=1&amp;doubleRooms=0&amp;location=Rom&amp;singleRooms=1&amp;suggestedID=%2554084&amp;lid=INT-HPT%3AT6289T&amp;lpos=102_3" class="jsRegisterMoreOffers jsTrackLink jsTeaser " target="_self">More Hotels</a>|
+</li>
+<li class="" data-tid="85549" data-tpos="102_4" data-tiv="0">
+<a class="jsRegisterCity" href="#" data-travelsuite="homepage_munich" id="hptchange_24:T6292::prop18::T6292_3B_24::events::event14::linkTrackVars::prop18_2C_eVar10_2C_events_2C_products::linkTrackEvents::event14::products::_3B_T6292::linkname::hptchange_24:T6292">Munich</a><a id="hptclick_24:T6292::adclick::T6292::eVar9::T6292:24:Munich::eVar10::T6292::events::event15::linkTrackVars::eVar9_2C_eVar10_2C_events_2C_prop9_2C_eVar18_2C_products::linkTrackEvents::event15::prop9::T6292:24:Munich::eVar18::T6292_3B_24_3B_Link::linkname::hptclick_24:T6292" href="/web3/search.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=startSearch&amp;adults=1&amp;doubleRooms=0&amp;location=Munich&amp;singleRooms=1&amp;suggestedID=%2570801&amp;lid=INT-HPT%3AT6292T&amp;lpos=102_4" class="jsRegisterMoreOffers jsTrackLink jsTeaser " target="_self">More Hotels</a>|
+</li>
+<li class="" data-tid="85541" data-tpos="102_5" data-tiv="0">
+<a class="jsRegisterCity" href="#" data-travelsuite="homepage_barcelona" id="hptchange_25:T6290::prop18::T6290_3B_25::events::event14::linkTrackVars::prop18_2C_eVar10_2C_events_2C_products::linkTrackEvents::event14::products::_3B_T6290::linkname::hptchange_25:T6290">Barcelona</a><a id="hptclick_25:T6290::adclick::T6290::eVar9::T6290:25:Barcelona::eVar10::T6290::events::event15::linkTrackVars::eVar9_2C_eVar10_2C_events_2C_prop9_2C_eVar18_2C_products::linkTrackEvents::event15::prop9::T6290:25:Barcelona::eVar18::T6290_3B_25_3B_Link::linkname::hptclick_25:T6290" href="/web3/search.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=startSearch&amp;adults=1&amp;doubleRooms=0&amp;location=Barcelona&amp;singleRooms=1&amp;suggestedID=%2564430&amp;lid=INT-HPT%3AT6290T&amp;lpos=102_5" class="jsRegisterMoreOffers jsTrackLink jsTeaser " target="_self">More Hotels</a>|
+</li>
+<li class="" data-tid="85553" data-tpos="102_6" data-tiv="0">
+<a class="jsRegisterCity" href="#" data-travelsuite="homepage_dresden" id="hptchange_26:T6293::prop18::T6293_3B_26::events::event14::linkTrackVars::prop18_2C_eVar10_2C_events_2C_products::linkTrackEvents::event14::products::_3B_T6293::linkname::hptchange_26:T6293">Dresden</a><a id="hptclick_26:T6293::adclick::T6293::eVar9::T6293:26:Dresden::eVar10::T6293::events::event15::linkTrackVars::eVar9_2C_eVar10_2C_events_2C_prop9_2C_eVar18_2C_products::linkTrackEvents::event15::prop9::T6293:26:Dresden::eVar18::T6293_3B_26_3B_Link::linkname::hptclick_26:T6293" href="/web3/search.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=startSearch&amp;adults=1&amp;doubleRooms=0&amp;location=Dresden&amp;singleRooms=1&amp;suggestedID=%2530396&amp;lid=INT-HPT%3AT6293T&amp;lpos=102_6" class="jsRegisterMoreOffers jsTrackLink jsTeaser " target="_self">More Hotels</a>|
+</li>
+</ul>
+<div id="offerContainer"></div>
+</div>
+<div class="row3">
+<div class="teaser col2 picLeft jsTeaser" data-tid="84877" data-tpos="103_2" data-tiv="1">
+<p class="pic jsLoadPics">
+<a title="" target="_blank" class="jsTrackLink delay " href="http://www.hrs.de/web3/registerBusinessTraveller.do?activity=showRegister&amp;l=en_US" id="hptclick_103_1::adclick::T6248::eVar10::T6248::events::event15::linkTrackVars::eVar9_2C_eVar10_2C_events_2C_prop9_2C_eVar18_2C_products::linkTrackEvents::event15::eVar18::6248_3B_31::linkname::hptclick_103_1" rel="nofollow"><img alt="" src="http://www.hrsstatic.com/web3/teomedia/teomedia-en_US-0-11592" alt="" width="185" height="156"></a>
+</p>
+<div class="left">
+<div class="height">
+<strong>Save up to 30% on Business Hotels</strong>
+<p>HRS offers companies of all sizes access to corporate rates up to 30% less than published rates. </p>
+</div>
+<p>
+<a rel="nofollow" id="hptclick_103_2::adclick::T6248::eVar10::T6248::events::event15::linkTrackVars::eVar9_2C_eVar10_2C_events_2C_prop9_2C_eVar18_2C_products::linkTrackEvents::event15::eVar18::6248_3B_31::linkname::hptclick_103_2" class="link jsTrackLink delay " href="http://www.hrs.de/web3/registerBusinessTraveller.do?activity=showRegister&amp;l=en_US" target="_blank" title="">Sign up now!</a>
+</p>
+</div>
+</div>
+<div class="teaser col2 picLeft jsTeaser" data-tid="85574" data-tpos="104_2" data-tiv="1">
+<p class="pic jsLoadPics">
+<a title="" target="_blank" class="jsTrackLink delay " href="/web3/link.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;page=aHR0cDovL2l0dW5lcy5hcHBsZS5jb20vZ2IvYXBwL2hycy1ob3RlbHBvcnRhbC9pZDMzMjE5MzU4Nj9tdD04&amp;lid=INT-HPT%3A6296&amp;lpos=104_000000" id="hptclick_104_1::adclick::T6296::eVar10::T6296::events::event15::linkTrackVars::eVar9_2C_eVar10_2C_events_2C_prop9_2C_prop20_2C_products::linkTrackEvents::event15::prop20::6296_3B_33::linkname::hptclick_104_1" rel="nofollow"><img alt="" src="http://www.hrsstatic.com/web3/teomedia/teomedia-en_US-0-16072" alt="" width="185" height="156"></a>
+</p>
+<div class="left">
+<div class="height">
+<strong>iHotel – The HRS app for iPhone</strong>
+<p>For the best prices and last-minute deals, book the hotel of your choice directly via your iPhone at no charge.</p>
+</div>
+<p>
+<a rel="nofollow" id="hptclick_104_2::adclick::T6296::eVar10::T6296::events::event15::linkTrackVars::eVar9_2C_eVar10_2C_events_2C_prop9_2C_prop20_2C_products::linkTrackEvents::event15::prop20::6296_3B_33::linkname::hptclick_104_2" class="link jsTrackLink delay " href="/web3/link.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;page=aHR0cDovL2l0dW5lcy5hcHBsZS5jb20vZ2IvYXBwL2hycy1ob3RlbHBvcnRhbC9pZDMzMjE5MzU4Nj9tdD04&amp;lid=INT-HPT%3A6296&amp;lpos=104_050000" target="_blank" title="">Find out more now!</a>
+</p>
+</div>
+</div>
+</div>
+<div id="socialMediaLayer" class="">
+<ul>
+<li class="facebook">
+<span class="show"></span>
+<div class="smLayer hide">
+<div class="lE"></div>
+<a rel="nofollow" href="http://www.facebook.com/HRS.UK" target="_blank" class="jsTrackLink addLink" title="Facebook" id="facebook">Facebook</a>
+</div>
+</li>
+<li class="google">
+<span class="show"></span><div class="smLayer hide"><div class="lE"></div><g:plusone></g:plusone><a rel="publisher" href="https://plus.google.com/114172013941606796085/" target="_blank" class="jsTrackLink addLink" id="google" title="Google+">Google+</a></div>
+</li>
+<li class="twitter">
+<span class="show"></span><div class="smLayer hide"><div class="lE"></div><a href="http://twitter.com/HRS_worldwide" data-size="large" class="twitter-follow-button" data-show-count="true" data-lang="en_US">Follow @twitterapi</a><a rel="nofollow" href="http://twitter.com/HRS_worldwide" target="_blank" class="jsTrackLink addLink" id="twitter" title="Twitter">Twitter</a></div>
+</li>
+<li class="youtube">
+<span class="show"></span><div class="smLayer hide"><div class="lE"></div><a href="http://www.youtube.com/hrs" class="jsTrackLink addLink" id="youtube" target="_blank">Youtube</a></div>
+</li>
+</ul>
+<ul>
+<li class="newsletter">
+<span class="show"></span>
+<div class="smLayer hide" id="newsletterLayer">
+<div class="lE"></div>
+<h5>Newsletter<span> - 50% discount</span></h5>
+<form class="newsletterSubscription" action="#">
+<fieldset>
+<input type="text" class="text left newsletterOrdered" value="Your e-mail address"/>
+<input type="submit" class="button" value="Subscribe"/>
+</fieldset>
+</form>
+</div>
+</li>
+</ul>
+</div>
+<div class="footer">
+<div class="footerWrap">
+<div class="footerCol"><div class="bg"></div>
+<h6 class="guarantie">Guarantee</h6>
+<ul class="checkList">
+<li>Secure SSL data transfer</li>
+<li>Data protection guaranteed</li>
+<li>Transparent pricing – no hidden charges</li>
+</ul>
+</div>
+<div class="footerCol awards jsTeaser" data-tid="83448" data-tpos="105_1" data-tiv="1">
+<h4><a href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=specials&amp;lid=INT-HPT%3A6233&amp;lpos=105_010000" id="hptclick_105_1::adclick::T6233::eVar10::T6233::events::event15::linkTrackVars::eVar9_2C_eVar10_2C_events_2C_prop9_2C_eVar18_2C_products::linkTrackEvents::event15::eVar18::6233_3B_4::linkname::hptclick_105_1" class="link jsTrackLink delay " href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=specials&amp;lid=INT-HPT%3A6233&amp;lpos=105_010000" target="_self">HRS Theme Hotels - Discover a multitude of different hotels.</a></h4>
+<img src="http://www.hrsstatic.com/web3/teomedia/teomedia-en_US-2-11561" alt=" " width="600" height="69"/>
+</div>
+<div class="clearer"></div>
+</div>
+<div class="clearer"></div>
+</div>
+<ul class="foot">
+<li class="first"><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=about">About HRS</a></li>
+<li class="footNavSeparator">&#124;</li>
+<li><a rel="nofollow" href="http://www.hrscorporate.com" target="_blank">For companies</a></li>
+<li class="footNavSeparator">&#124;</li>
+<li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=partner">For hotels</a></li>
+<li class="footNavSeparator">&#124;</li>
+<li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=affiliatePartner">Partners</a></li>
+<li class="footNavSeparator">&#124;</li>
+<li><a rel="nofollow" href="http://jobs.hrs.de/en" target="_blank">Jobs & Careers</a></li>
+<li class="footNavSeparator">&#124;</li>
+<li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=press">Press</a></li>
+<li class="footNavSeparator">&#124;</li>
+<li><a rel="nofollow" href="/web3/setContact.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=showIntro">Contact</a></li>
+<li class="footNavSeparator">&#124;</li>
+<li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=sitemap">Sitemap</a></li>
+<li class="footNavSeparator">&#124;</li>
+<li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=faq">FAQ</a></li>
+<li class="footNavSeparator">&#124;</li>
+<li><a rel="nofollow" href="/web3/showImprint.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=show">Imprint</a></li>
+<li class="footNavSeparator">&#124;</li>
+<li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=legals">Data protection + security</a></li>
+<li class="footNavSeparator">&#124;</li>
+<li><a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=conditions">T&amp;C</a></li>
+<li class="footNavSeparator">&#124;</li>
+<li><a href="http://www.hrs.com/uk/sitemap/1/" target="_self">Site-index</a></li>
+<li class="footNavSeparator">&#124;</li>
+<li>
+<a rel="nofollow" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=copyright">© HRS 2014</a>
+</li>
+</ul>
+<ul class="service">
+<li class="cars">
+<a class="jsTrackLink delay" href="/web3/showCmsPage.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;pageId=standard-02855" id="footer_carrent" rel="nofollow">Rental cars with HRS</a><span></span>
+</li>
+</ul>
+<div id="fb-root"></div>
+</div>
+</div>
+<div id="corner01"></div><div id="corner02"></div>
+</div>
+<div id="ICP-License">
+<a href="http://www.miibeian.gov.cn/" target="_blank" rel="nofollow" title="The ICP license is required for travelers in China to view the page">ICP license: 沪ICP备08016371号534-parY</a>
+</div>
+<script type="text/javascript">//<![CDATA[
+var mmBase=window.location.protocol+"//"+window.location.hostname+((window.location.port!=null&&window.location.port!='')?":"+window.location.port:"")+"/hrs-suggest/";var mmURLBase=mmBase+"mmsuggest";var mmIconPath=mmBase+"images/";
+//]]></script>
+<script type="text/javascript" src="http://www.hrsstatic.com/hrs-suggest/js/mmCompressedWide.js"></script>
+<div class="tracking">
+<script type="text/javascript">//<![CDATA[
+display();
+//]]></script>
+<script language="JavaScript" type="text/javascript">var s_account="hotelrsglobal";window.s_trackingServer="";window.s_trackingServerSecure="";</script>
+<script language="JavaScript" type="text/javascript" src="http://www.hrsstatic.com/web3/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript">s.campaign="cid6011";s.channel="Public Web";s.eVar20="D=c26+\":\"+c25+\":\"+ch+\":\"+pageName";s.eVar23="D=s_vi";s.eVar45="cid6011";s.events="event14,event18,event55";s.linkTrackVars="channel,pagename,prop26";s.pageName="Homepage";s.products=";T6248,;T6296,;T6233";s.prop11="2014-05-22 13:50:51";s.prop18=";T6296;33,;T6233;4,;T6248;31";s.prop25="~6011~";s.prop26="en_US";s.prop27="D=ch+\":\"+pageName";s.prop32="D=c25+\":\"+ch+\":\"+pageName";s.prop33="No";s.prop48="cid6011:~6011~:Public Web:Homepage";s.prop51="D=\"~6011~:\"+ch+\":\"+pageName";s.prop52="7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4";s.prop55="~6011~";s.prop56="http:\/\/www.hrs.com\/web3\/jsp\/portal\/homepage.jsp?activity=initVisit";s.prop57="53-4";s.prop63="D=ch+\":\"+pageName";s.prop67="2014-05-22 13:50";s.prop71="-1";s.server="Web1000";s.formList="ratingForm,bookingProcessForm,contactForm,newsletterForm";</script>
+<noscript><iframe name="KeepAlive" src="/web3/keepAlive.do;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&amp;activity=init" marginwidth="1" marginheight="1" height="1" width="1" style="height:1px !important" border="0" frameborder="0"></iframe>
+</noscript><script type="text/javascript">setTimeout(function(){initKeepAlive("/web3/keepAlive;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4",300*1000)},540*1000)</script>
+</div>
+<script type="text/javascript">//<![CDATA[
+window.addEvent('domready',function(){var destination=$('destiny');if(!destination){var dlist=$$('.text.location');if(dlist.length==1){destination=dlist[0];}}
+if(destination&&window.mmCallSearch){destination.oninput=function(){if(!destination.suggVisible){mmCallSearch(destination,10);}}}});
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+window.hrs_getServerNodeId='53-4';window.addEvent('domready',function(){var readCookie=Cookie.read?Cookie.read:(Cookie.get?Cookie.get:doNothing);var ciStatus='ciStatus';var clientDataCookieName='clientData';var clientDataCookieValue='y';var doNothing=function(){};var writeCookie=Cookie.write?Cookie.write:(Cookie.set?Cookie.set:doNothing);var removeCookie=Cookie.dispose?Cookie.dispose:(Cookie.remove?Cookie.remove:doNothing);var clientDataCookieValueAsSetByServer=readCookie(clientDataCookieName);writeCookie(clientDataCookieName,clientDataCookieValue);var cookieTestResultCode=0;if(clientDataCookieValueAsSetByServer==readCookie(clientDataCookieName)){cookieTestResultCode+=1;}
+if(clientDataCookieValue==readCookie(clientDataCookieName)){cookieTestResultCode+=2;}
+removeCookie(clientDataCookieName);var clientDataParamString='?track=ci'+'&saw='+screen.availWidth+'&sah='+screen.availHeight+'&scd='+screen.colorDepth+'&nua='+navigator.userAgent+'&np='+navigator.platform+'&nl='+navigator.language+'&nce='+navigator.cookieEnabled+'&nan='+navigator.appName+'&cookie='+cookieTestResultCode+'&sess='+'7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4';var clientDataPixel=document.createElement('img');clientDataPixel.src='bi/null.gif'+clientDataParamString;document.body.appendChild(clientDataPixel);writeCookie(ciStatus,cookieTestResultCode);});
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+window.addEvent('domready',function(){window.setTimeout(function(){window.backgroundPageTrackingFinished=true;},1000);});
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+new Request({'url':"/web3/media;jsessionid=7949D2B9EE2E04D7C2F3A1DCF8A0BCA2.53-4?clientId=ZW5fVVNfTkVYVA--&amp;cid=53-4&mediaID=-1"}).get();
+//]]></script>
+</body>
+</html>

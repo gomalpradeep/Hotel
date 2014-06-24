@@ -1,0 +1,24 @@
+.container{
+    max-width: 1130px;
+    position: relative;
+    margin: 10px auto;
+  
+    background: none repeat scroll 0% 0% #F0F0F0;
+    width: 100%;
+    min-height: 600px;  padding-right: 15px;
+   padding-left: 15px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#menu2 ul{
+width: 100%;
+float: left;
+background:url(Image/fltdetailstab-bg.gif)repeat-x scroll center bottom transparent;
+
+}
+.form{
+	width:950px;
+	margin:10px;
+	padding-top:50px;
+	
+	}

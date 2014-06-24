@@ -1,0 +1,28 @@
+
+/* Space out content a bit */
+body {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.container {
+width:1150px;
+height:600px;
+
+}
+.left{
+float:left;
+width:600px;
+}
+.right{
+
+float:right;
+width:500px;
+}
+
+.right-inner{
+padding:10px;
+}
+.left-inner{
+padding:10px;
+}
